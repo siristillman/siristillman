@@ -1,4 +1,5 @@
 ![👋 Привет! Меня зовут Ира Смирнова](https://github.com/siristillman/siristillman/blob/main/34b84710199093a8e62386046d85ab3f.gif)
+
   
 
 <h3 align="left">
@@ -11,7 +12,7 @@
 
 ## My CV 
 
-[Ссылка на резюме](https://hh.ru/resume/c6306014ff0e12d1c50039ed1f73356e6b736a)
+[Ссылка на резюме](https://digital-frontend-ut-flutter-flutter-430.dev-yc.utair.io/m/check-in)
 
 ## Портфолио 
 - Тестовая документация
